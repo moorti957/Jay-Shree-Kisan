@@ -20,6 +20,7 @@ const MenuBar = () => {
         <li><a href="#">Contact</a></li>
         <li><a href="#">Sitemap</a></li>
         <li><a href="#">Brand</a></li>
+         <li><a href="#">contant</a></li>
       </ul>
 
     
